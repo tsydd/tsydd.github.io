@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://tsydd.github.io/sitemap.xml
