@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /covid-19/
 Sitemap: https://tsydd.github.io/sitemap.xml
-Disallow: /
