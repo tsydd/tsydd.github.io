@@ -1,0 +1,10 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <circle style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 8.074;" cx="48.804" cy="58.307" r="37.481"/>
+  <circle style="stroke: rgb(0, 0, 0);" cx="49.033" cy="58.149" r="13.514"/>
+  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 8px;" x1="12.071" y1="21.493" x2="21.312"
+        y2="31.116"/>
+  <line style="stroke: rgb(0, 0, 0); stroke-width: 8px;" x1="87.14" y1="21.417" x2="76.907" y2="31.421"/>
+  <polyline style="stroke: rgb(0, 0, 0);" points="53.233 45.091 70.11 37.225 61.481 54.026"/>
+  <rect x="28.414" width="37.191" height="9.198" style="stroke: rgb(0, 0, 0); paint-order: fill;"/>
+  <rect x="38.036" y="8.969" width="18.252" height="9.622" style="stroke: rgb(0, 0, 0);"/>
+</svg>
